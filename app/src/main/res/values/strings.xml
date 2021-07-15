@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DialogFragmentDemo</string>
+    <string name="alert_dialog_title">Login Alert</string>
+    <string name="alert_dialog_subTitle">Are you sure, you want to continue?</string>
+    <string name="custom_dialog_title">Custom Dialog</string>
+    <string name="custom_dialog_subTitle">Hello! I am Custom Dialog</string>
+    <string name="btn_Custom_Dialog">Custom Dialog Fragment</string>
+    <string name="btn_AlertDialog">Alert Dialog Fragment</string>
+    <string name="btn_Dialog_with_data">Dialog with data Fragment</string>
+</resources>
